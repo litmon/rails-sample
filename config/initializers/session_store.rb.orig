@@ -1,7 +1,0 @@
-# Be sure to restart your server when you modify this file.
-
-<<<<<<< HEAD
-Rails.application.config.session_store :cookie_store, key: '_rails-sample-app_session'
-=======
-Rails.application.config.session_store :cookie_store, key: '_sample_session'
->>>>>>> 1e08b869d3df891e7dd6d083dafa8123f12f5b20
