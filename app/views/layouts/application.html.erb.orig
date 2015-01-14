@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+<<<<<<< HEAD
+  <title>RailsSampleApp</title>
+=======
   <title>Sample</title>
+>>>>>>> 1e08b869d3df891e7dd6d083dafa8123f12f5b20
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>

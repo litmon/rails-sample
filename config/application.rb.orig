@@ -6,7 +6,11 @@ require 'rails/all'
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
+<<<<<<< HEAD
+module RailsSampleApp
+=======
 module Sample
+>>>>>>> 1e08b869d3df891e7dd6d083dafa8123f12f5b20
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
